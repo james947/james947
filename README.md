@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://j.gifs.com/v15Bnk.gif" width="100" />
   <h1>
-    <span style="font-weight:bold; color:#0366d6;">James Agushoma 👋</span> 
+    <span style="font-weight:bold; color:#0366d6;">James Agushoma </span> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h1>
   <h3 align="center">Backend Software Engineer | Full-Stack Capable | 5+ Years Experience</h3>
@@ -52,6 +52,14 @@ I'm a passionate Backend Software Engineer based in Kenya, with over 5 years of 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/> 
 </div>
+
+## 📊 GitHub Stats
+
+[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=james947&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james947&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=james947&theme=dark)](https://git.io/streak-stats)  
+
 
 ---
 </div>
