@@ -2,7 +2,7 @@
 
 **Backend Software Engineer | Full-Stack Capable | 5+ Years Experience**
 
-[![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-agushoma)]([YOUR LINKEDIN URL])
+[![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-agushoma)](https://www.linkedin.com/in/james-agushoma)
 [![GitHub Badge](https://img.shields.io/badge/-james947-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/james947)](https://github.com/james947)
 
 **Contact:**
@@ -49,7 +49,6 @@ Accomplished Backend Software Engineer with 5+ years of experience delivering in
 - **Successful Integrations:** Contributed to seamless integrations with Lami and Co-op Bank, boosting platform usage by 30%.
 - **Customer Support:** Resolved 95% of inquiries on the first contact.
 
-{/* ... Add the rest of your experience similarly  */}
 
 ---
 
